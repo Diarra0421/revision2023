@@ -1,0 +1,8 @@
+
+
+un tablespace est une unite de stockage logique de donnee 
+create tablespace stic datafile 'c:\diarra\test.dbf'
+size 100M;
+create user dodo identidied by diarra default tablespace stic; (affectation a tablespace nomer stic )
+
+alerr tablespace ofline(ce qu'on ne veut pas qu'il se connecte )

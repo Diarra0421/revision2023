@@ -1,0 +1,10 @@
+ecrire un programme en php qui recupere des donne saisi a partir du formulaire html composer de nom prenom 
+filiere et age 
+le programme permet de crere un fichier nomer tester.txt en vue de stocker des donner saisi
+
+
+
+
+dans htdoc gespret (a l'interieur 	q
+
+reutiluser l'existant :une classe

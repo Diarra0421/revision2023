@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <link rel="stylesheet" href="style.css" />
+    <link  href="css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+      
+    </style>
+</head>
+<body>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<nav class="cc-navbar navbar navbar-expand-lg fixe position navbar-dark">
+ 
+
+
+
+  <div class="container-fluid">
+    <a class="navbar-brand text-uppercase fw-border mx-4 py-3" href="#">Socité SK</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link pe-4" aria-current="page" href="pages/indexcl.php">CLIENT</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link pe-4" href="bf.html">BF</a>
+
+        </li>
+        
+        </li>
+        <li class="nav-item pe-4">
+          <a class="nav-link" href="facture.html">FACTURE</a>
+        </li>
+        </li>
+        <li class="nav-item pe-4">
+          <a class="nav-link" href="paiment.html">PAIEMENT</a>
+        </li>
+        </li>
+        
+        <li class="nav-item">
+          <a class="btn btn-order rounded-0" href="commande.html">COMMANDE</a>
+        </li>
+
+        
+        
+        
+      
+    </div>
+  </div>
+</nav>
+<section class="banner d-flex justify-content-center pt-5">
+    <div class="container my-5 py-5">
+      <div class="row">
+      <div class="col-md-6"> </div>
+      <div class="col-md-6">
+        <h1 class="text-capitalize py-3 predressed banner-desc">
+          BIENVENU DANS LA SOCIETE SK MERCI DE VOTRE FIABILITE<br />
+
+        </h1>
+        <p>
+          <button class="btn btn-order rounded-0 merriweather">COMMANDER MAINTENANT</button>
+          <button classe="btn btn-outline-info rounded-0 merriweather">CONNEXION</button>
+        </p>
+
+      </div>
+
+     
+
+      </div>
+    </div>
+  </section>
+  <script src="js/bootstrap.bundle.min.js"></script>
+
+  
+</body>
+</html>
+pour index bi

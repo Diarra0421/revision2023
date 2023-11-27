@@ -1,0 +1,2 @@
+afficher les agents qui ont le meme salaire que celui de l'agent numero 
+afficher tout les agent qui ont un salaire inferieur a celui  de l'agent numero 2 embaucher en 2021 et qui occupe la meme fonction que celle de l'agent numero 3

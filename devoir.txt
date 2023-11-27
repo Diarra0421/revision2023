@@ -1,0 +1,31 @@
+application 1
+
+Ecrire un programme en php qui permet de remplir un tableaux associatif
+ caracteriser par un id, un nom , un prenom, la moyenne, parcour les eemnet du tableau puis les afficher
+
+
+
+Applicatiomn2 
+ecrire un programme en php qui permet de controler la saisie d'une valeur entiere positive. le programme affiche 
+tout les nombre paire compris entre 1 et l'entier saisis apartir du formulaire  
+
+
+
+
+Application 3
+
+  ecrire un programme en php qui demande le nom et le prenom et ll'age d'un enfant puis affiche sa categorie 
+les categorie sont ainsi defini: bb moins de 6 ans cousin de 6 a 7ans pupiii de 8 a 9ans minime de 10 a 11ans cadet apres 12ans 
+
+
+
+
+Application 3
+creer une fonction nomer      frm      pour traiter envoyer par le formulaire frm client.php
+cet fonction stock les donner envoyer  dans les variable local nom,prenom,email,et afiche un message de bienvenu en utilisant ses variable 
+si la methodes http pour acceder a la page est post nous appelons la foction  traiter frm 
+si la methode est fet, nous affichos le formulaire 
+
+
+
+NB:crerr une page de votre choix qui contient des liens permettant d'acceder sur clicc a toute ses application  en utulisant du boostrapp 

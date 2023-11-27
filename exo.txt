@@ -1,0 +1,11 @@
+Application 1:
+Ecrire un programm en php qui cree un tableaux de 6 entiers 
+parcourirr les elements du tableaux et puis l'afficher en integran du html pour la mise en formes
+
+ Applications 2:
+crre un tableaux associatif caacacteriser par un id nom prenom filiere et la moyenne 
+parirr les elements du tableaux puis l'afficher
+Application3:
+creerr un tableau associatiff multidimentionnelle composer de 4 etudiants caracteriser par leur id nom prenom et moyenne 
+parcourirr les elements du tabpuis afficher les elements par odre decroissant
+Nb: utiliser la boucle foreach sur toute les app

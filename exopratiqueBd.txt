@@ -1,0 +1,61 @@
+une representation logique qui sapui sur une representation physique 
+une vue est une representation virtuel qui sapui sur une representaion physique
+une sequence est un objet qui permet de generer des valeur
+with grand option l'utilisateur peut l'utilisateur et peut attribuer a quelq'un d'autre
+\
+ table space:unité logique de stockage de donne qui se termine par.dbf
+
+
+exercice d'application
+
+1.. se connecter sous le compte de system ou sysdba en creant un utilisateur nomer titi qui aura tout les droit
+2..sur la session de titi creer les objet si dessous
+emploiyer caractereiser par un id,nom,prenom,date dembaucfhe,salaire,fonction,commusion,
+numero departement .
+un departement est caracteriser par num departement,nom,capacité, localisation
+3..
+creer trois user nomer  tata ,toto,pathe
+4..attribuer a toout(on peut remplacer les user par public pour mettre tout les user sans beaucoup ecrire) les user le droit de lire sur les objet emploiyer et departement 
+5..
+attribuer a pathe la possibilité de modifier les salaire et les commussion
+attriobuer a tata  la possibilité de supprimer sur l'objet emploiyer 
+6..
+inserer deux enregistrement dans la table departemennt puis dans la table emploiyer 
+7..
+qu'est ce qu'une sequence, une vue,
+8..
+creer une vue nomer emploiyebis en vue d'afficher l'id, le salaire et la commussion de chaque emploiyer  
+9.. crere une vue nomer employerbis 2 en vue d'afficher tout vles emploiyer 
+10.. crere une vue nomer emploiyerbis3 en vue d'afficher le nom, le prenom,et la date d'embauche des 
+emploiyer qui on un salaire compris (500mil et 1million)
+11.. cerre une ssequence  nomer seqdept  dont sont pas d'increment est de 2 commencer par 10, sa valeur maximal est de 1000
+pas de cache ni ne cycle 
+11..utiliser la sequence pour inserer 3 departement 
+12..Afficher tout les departement 
+13.. Afficher le pas de la sequence 
+14.. valider toute les transaction
+
+
+
+
+
+
+
+
+
+Dans le fichier envoyer 
+8-- modiffier le type  et la taille de l'attribut telephone pour devenir varrchar 50 
+9-- ajouter l'attribut fonction dans la table donateur
+10-- supprimer le donateur numero 2 : delete from donateur where numD=2;
+11--moddifier le montant du don numero 5 devenu 5milllion :update don set montant=50000 where numD=5;
+12-- creer un table space puis affecter deux utilisateur dessu
+13-- attribuer tout les droits a user numero1
+14-- exporter toute la base de maniere complete 
+15-- exporter la base de donne a un niveau utulisateur 
+
+exporter la base de donne a un niveau table
+importer le scemas de user un ver user 2
+
+
+
+
